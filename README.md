@@ -1,2 +1,2 @@
 # proxmox-api
-API for controlling ProxMox
+Service management API
